@@ -47,8 +47,9 @@ Patients with severe reactions have a slightly higher average age.
 
   Dashboard Preview
 
-(Dashboard_image1.png)
-(Dashboard_image2.png)
+(Dashboardimage1.png)
+(Dashboardimage2.png)
+
 
 * Skills Demonstrated
 Dashboard Design

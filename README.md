@@ -46,7 +46,6 @@ Gender distribution of reported cases is nearly balanced.
 Patients with severe reactions have a slightly higher average age.
 
   Dashboard Preview
-
 (Dashboardimage1.png)
 (Dashboardimage2.png)
 

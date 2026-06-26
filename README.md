@@ -66,11 +66,11 @@ The dashboard helps identify reporting patterns across age groups, gender, sever
 
 ### Executive Dashboard
 
-![Executive Dashboard](images/Dashboardimage1.png)
+![Executive Dashboard](Dashboardimage1.png)
 
 ### Demographic Dashboard
 
-![Demographic Dashboard](images/Dashboardimage.png)
+![Demographic Dashboard](Dashboardimage.png)
 
 ---
 

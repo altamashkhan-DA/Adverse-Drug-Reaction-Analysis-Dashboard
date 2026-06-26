@@ -70,7 +70,7 @@ The dashboard helps identify reporting patterns across age groups, gender, sever
 
 ### Demographic Dashboard
 
-![Demographic Dashboard](images/Dashboardimage2.png)
+![Demographic Dashboard](images/Dashboardimage.png)
 
 ---
 
